@@ -1,0 +1,10 @@
+# .gitignore
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# TensorFlow binaries
+venv/lib/python*/site-packages/tensorflow/
